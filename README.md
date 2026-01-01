@@ -15,7 +15,7 @@ I am a Data Science enthusiast currently pursuing my B.Tech and interning at Pro
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-## 🐍 Contribution Snake
+## 365 contributions in 2025
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/ompanchal05/ompanchal05/output/github-contribution-grid-snake-dark.svg)
 
