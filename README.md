@@ -17,5 +17,6 @@ I am a Data Science enthusiast currently pursuing my B.Tech and interning at Pro
 
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/ompanchal05/ompanchal05/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ompanchal05/ompanchal05/output/github-contribution-grid-snake-dark.svg)
+
 
