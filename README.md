@@ -12,7 +12,6 @@ I am a Data Science enthusiast currently pursuing my B.Tech and interning at Pro
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ompanchal05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ompanchal05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ompanchal05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ompanchal05&theme=github-dark&)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
